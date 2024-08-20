@@ -1,0 +1,19 @@
+/* app.component.css */
+.max-w-md {
+    max-width: 768px;
+  }
+  
+  .mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .text-2xl {
+    font-size: 1.5rem;
+  }
+  
+  .my-8 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
